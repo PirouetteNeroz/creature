@@ -7,22 +7,23 @@ Any contribution is appreciate.
 
 ### AX12-AX18:
 
-![Trunk Assembled](Img/quadrupedAx18.jpg)
+![](Img/quadrupedAx18.jpg)
 
 ### MX28:
 
-![Trunk Assembled](Img/QuadrupedMx28.jpg)
+![](Img/QuadrupedMx28.jpg)
 
 
 ##Hexapod
 
 ### AX12-AX18:
 
-![Trunk Assembled](Img/hexaAx18.jpg)
+![](Img/hexaAx18.jpg)
 
 ### MX28:
 
-![Trunk Assembled](Img/hexaMX28.jpg)
+![](Img/hexaMX28.jpg)
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The hardware work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
