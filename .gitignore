@@ -1,0 +1,4 @@
+# HARDWARE
+# Output binary file for 3D printing (too heavy to be kept in the history)
+*.STL
+~$*
